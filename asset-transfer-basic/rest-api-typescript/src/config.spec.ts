@@ -249,19 +249,6 @@ describe('Config values', () => {
     });
   });
 
-  describe('mspIdOrg2', () => {
-    it('defaults to "Org2MSP"', () => {
-      const config = require('./config');
-      expect(config.mspIdOrg2).toBe('Org2MSP');
-    });
-
-    it('can be configured using the "HLF_MSP_ID_ORG2" environment variable', () => {
-      process.env.HLF_MSP_ID_ORG2 = 'Test2MSP';
-      const config = require('./config');
-      expect(config.mspIdOrg2).toBe('Test2MSP');
-    });
-  });
-
   describe('channelName', () => {
     it('defaults to "mychannel"', () => {
       const config = require('./config');
@@ -416,68 +403,6 @@ describe('Config values', () => {
     });
   });
 
-  describe('connectionProfileOrg2', () => {
-    it('throws an error when the "HLF_CONNECTION_PROFILE_ORG2" environment variable is not set', () => {
-      delete process.env.HLF_CONNECTION_PROFILE_ORG2;
-      expect(() => {
-        require('./config');
-      }).toThrow(
-        'env-var: "HLF_CONNECTION_PROFILE_ORG2" is a required variable, but it was not set. An example of a valid value would be: {"name":"test-network-org2","version":"1.0.0","client":{"organization":"Org2" ... }'
-      );
-    });
-
-    it('can be configured using the "HLF_CONNECTION_PROFILE_ORG2" environment variable', () => {
-      process.env.HLF_CONNECTION_PROFILE_ORG2 = '{"name":"test-network-org2"}';
-      const config = require('./config');
-      expect(config.connectionProfileOrg2).toStrictEqual({
-        name: 'test-network-org2',
-      });
-    });
-
-    it('throws an error when the "HLF_CONNECTION_PROFILE_ORG2" environment variable is set to invalid json', () => {
-      process.env.HLF_CONNECTION_PROFILE_ORG2 = 'testing';
-      expect(() => {
-        require('./config');
-      }).toThrow(
-        'env-var: "HLF_CONNECTION_PROFILE_ORG2" should be valid (parseable) JSON. An example of a valid value would be: {"name":"test-network-org2","version":"1.0.0","client":{"organization":"Org2" ... }'
-      );
-    });
-  });
-
-  describe('certificateOrg2', () => {
-    it('throws an error when the "HLF_CERTIFICATE_ORG2" environment variable is not set', () => {
-      delete process.env.HLF_CERTIFICATE_ORG2;
-      expect(() => {
-        require('./config');
-      }).toThrow(
-        'env-var: "HLF_CERTIFICATE_ORG2" is a required variable, but it was not set. An example of a valid value would be: "-----BEGIN CERTIFICATE-----\\n...\\n-----END CERTIFICATE-----\\n"'
-      );
-    });
-
-    it('can be configured using the "HLF_CERTIFICATE_ORG2" environment variable', () => {
-      process.env.HLF_CERTIFICATE_ORG2 = 'ORG2CERT';
-      const config = require('./config');
-      expect(config.certificateOrg2).toBe('ORG2CERT');
-    });
-  });
-
-  describe('privateKeyOrg2', () => {
-    it('throws an error when the "HLF_PRIVATE_KEY_ORG2" environment variable is not set', () => {
-      delete process.env.HLF_PRIVATE_KEY_ORG2;
-      expect(() => {
-        require('./config');
-      }).toThrow(
-        'env-var: "HLF_PRIVATE_KEY_ORG2" is a required variable, but it was not set. An example of a valid value would be: "-----BEGIN PRIVATE KEY-----\\n...\\n-----END PRIVATE KEY-----\\n"'
-      );
-    });
-
-    it('can be configured using the "HLF_PRIVATE_KEY_ORG2" environment variable', () => {
-      process.env.HLF_PRIVATE_KEY_ORG2 = 'ORG2PK';
-      const config = require('./config');
-      expect(config.privateKeyOrg2).toBe('ORG2PK');
-    });
-  });
-
   describe('redisHost', () => {
     it('defaults to "localhost"', () => {
       const config = require('./config');
@@ -553,23 +478,6 @@ describe('Config values', () => {
       process.env.ORG1_APIKEY = 'org1ApiKey';
       const config = require('./config');
       expect(config.org1ApiKey).toBe('org1ApiKey');
-    });
-  });
-
-  describe('org2ApiKey', () => {
-    it('throws an error when the "ORG1_APIKEY" environment variable is not set', () => {
-      delete process.env.ORG2_APIKEY;
-      expect(() => {
-        require('./config');
-      }).toThrow(
-        'env-var: "ORG2_APIKEY" is a required variable, but it was not set. An example of a valid value would be: 456'
-      );
-    });
-
-    it('can be configured using the "ORG1_APIKEY" environment variable', () => {
-      process.env.ORG2_APIKEY = 'org2ApiKey';
-      const config = require('./config');
-      expect(config.org2ApiKey).toBe('org2ApiKey');
     });
   });
 });

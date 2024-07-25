@@ -41,18 +41,6 @@ export const createWallet = async (): Promise<Wallet> => {
   };
 
   await wallet.put(config.mspIdOrg1, org1Identity);
-
-  const org2Identity = {
-    credentials: {
-      certificate: config.certificateOrg2,
-      privateKey: config.privateKeyOrg2,
-    },
-    mspId: config.mspIdOrg2,
-    type: 'X.509',
-  };
-
-  await wallet.put(config.mspIdOrg2, org2Identity);
-
   return wallet;
 };
 

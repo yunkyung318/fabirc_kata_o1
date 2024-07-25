@@ -44,11 +44,6 @@ function construct_application_configmap() {
 
   echo "$(json_ccp 1 $peer_pem $ca_pem)" > build/application/gateways/org1_ccp.json
 
-  peer_pem=$CHANNEL_MSP_DIR/peerOrganizations/org2/msp/tlscacerts/tlsca-signcert.pem
-  ca_pem=$CHANNEL_MSP_DIR/peerOrganizations/org2/msp/cacerts/ca-signcert.pem
-
-  echo "$(json_ccp 2 $peer_pem $ca_pem)" > build/application/gateways/org2_ccp.json
-
   pop_fn
 
   push_fn "Getting Application Identities"
@@ -57,11 +52,6 @@ function construct_application_configmap() {
   local pk=$ENROLLMENT_DIR/org1/users/org1admin/msp/keystore/key.pem
 
   echo "$(app_id Org1MSP $cert $pk)" > build/application/wallet/appuser_org1.id
-
-  local cert=$ENROLLMENT_DIR/org2/users/org2admin/msp/signcerts/cert.pem
-  local pk=$ENROLLMENT_DIR/org2/users/org2admin/msp/keystore/key.pem
-
-  echo "$(app_id Org2MSP $cert $pk)" > build/application/wallet/appuser_org2.id
 
   pop_fn
 

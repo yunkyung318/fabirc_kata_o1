@@ -21,10 +21,6 @@ export const fabricAPIKeyStrategy: HeaderAPIKeyStrategy =
         const user = config.mspIdOrg1;
         logger.debug('User set to %s', user);
         done(null, user);
-      } else if (apikey === config.org2ApiKey) {
-        const user = config.mspIdOrg2;
-        logger.debug('User set to %s', user);
-        done(null, user);
       } else {
         logger.debug({ apikey }, 'No valid X-API-Key');
         return done(null, false);

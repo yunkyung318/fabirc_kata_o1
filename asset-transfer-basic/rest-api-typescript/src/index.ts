@@ -51,17 +51,6 @@ async function main() {
 
   app.locals[config.mspIdOrg1] = contractsOrg1;
 
-  logger.info('Connecting to Fabric network with org2 mspid');
-  const gatewayOrg2 = await createGateway(
-    config.connectionProfileOrg2,
-    config.mspIdOrg2,
-    wallet
-  );
-  const networkOrg2 = await getNetwork(gatewayOrg2);
-  const contractsOrg2 = await getContracts(networkOrg2);
-
-  app.locals[config.mspIdOrg2] = contractsOrg2;
-
   logger.info('Initialising submit job queue');
   jobQueue = initJobQueue();
   jobQueueWorker = initJobQueueWorker(app);

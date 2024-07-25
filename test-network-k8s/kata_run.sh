@@ -120,7 +120,7 @@ echo "$org1_ca_ip org1-ca" | sudo tee -a /etc/hosts
 echo "$org1_peer1_ip org1-peer1" | sudo tee -a /etc/hosts
 
 ### Modifying IP & PORT of a Connection file ###
-jq --arg ip "$org1_peer1_ip" --arg port "$org1_peer1_port" --arg ca_ip "$org1_ca_ip" --arg ca_port "$org1_ca_port" \
+jq --arg ip "10.138.0.27" --arg port "$org1_peer1_port" --arg ca_ip "10.138.0.27" --arg ca_port "$org1_ca_port" \
   '.peers["org1-peers"].url = "grpcs://\($ip):\($port)" |
    .certificateAuthorities["org1-ca"].url = "https://\($ca_ip):\($ca_port)"' \
   build/fabric-rest-sample-config/HLF_CONNECTION_PROFILE_ORG1 > build/fabric-rest-sample-config/temp1.json && mv build/fabric-rest-sample-config/temp1.json build/fabric-rest-sample-config/HLF_CONNECTION_PROFILE_ORG1

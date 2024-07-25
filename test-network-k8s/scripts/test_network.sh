@@ -157,7 +157,7 @@ function stop_services() {
 
 function scrub_org_volumes() {
   push_fn "Scrubbing Fabric volumes"
-  for org in org0 org1 org2; do
+  for org in org0 org1 ; do
     # clean job to make this function can be rerun
     local namespace_variable=${org^^}_NS
     kubectl -n ${!namespace_variable} delete jobs --all
@@ -173,7 +173,7 @@ function scrub_org_volumes() {
 function network_down() {
 
   set +e
-  for ns in $ORG0_NS $ORG1_NS $ORG2_NS; do
+  for ns in $ORG0_NS $ORG1_NS ; do
     kubectl get namespace $ns > /dev/null
     if [[ $? -ne 0 ]]; then
       echo "No namespace $ns found - nothing to do."

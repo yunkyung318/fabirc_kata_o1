@@ -16,7 +16,6 @@
 import * as env from 'env-var';
 
 export const ORG1 = 'Org1';
-export const ORG2 = 'Org2';
 
 export const JOB_QUEUE_NAME = 'submit';
 
@@ -122,15 +121,6 @@ export const mspIdOrg1 = env
   .asString();
 
 /**
- * The Org2 MSP ID
- */
-export const mspIdOrg2 = env
-  .get('HLF_MSP_ID_ORG2')
-  .default(`${ORG2}MSP`)
-  .example(`${ORG2}MSP`)
-  .asString();
-
-/**
  * Name of the channel which the basic asset sample chaincode has been installed on
  */
 export const channelName = env
@@ -205,35 +195,6 @@ export const privateKeyOrg1 = env
   .asString();
 
 /**
- * The Org2 connection profile JSON
- */
-export const connectionProfileOrg2 = env
-  .get('HLF_CONNECTION_PROFILE_ORG2')
-  .required()
-  .example(
-    '{"name":"test-network-org2","version":"1.0.0","client":{"organization":"Org2" ... }'
-  )
-  .asJsonObject() as Record<string, unknown>;
-
-/**
- * Certificate for an Org2 identity to evaluate and submit transactions
- */
-export const certificateOrg2 = env
-  .get('HLF_CERTIFICATE_ORG2')
-  .required()
-  .example('"-----BEGIN CERTIFICATE-----\\n...\\n-----END CERTIFICATE-----\\n"')
-  .asString();
-
-/**
- * Private key for an Org2 identity to evaluate and submit transactions
- */
-export const privateKeyOrg2 = env
-  .get('HLF_PRIVATE_KEY_ORG2')
-  .required()
-  .example('"-----BEGIN PRIVATE KEY-----\\n...\\n-----END PRIVATE KEY-----\\n"')
-  .asString();
-
-/**
  * The host the Redis server is running on
  */
 export const redisHost = env
@@ -272,14 +233,4 @@ export const org1ApiKey = env
   .get('ORG1_APIKEY')
   .required()
   .example('123')
-  .asString();
-
-/**
- * API key for Org2
- * Specify this API key with the X-Api-Key header to use the Org2 connection profile and credentials
- */
-export const org2ApiKey = env
-  .get('ORG2_APIKEY')
-  .required()
-  .example('456')
   .asString();

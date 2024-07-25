@@ -85,14 +85,6 @@ describe('Asset Transfer Besic REST API', () => {
         qsccContract: mockOrg1QsccContract,
       };
 
-      const mockOrg2QsccContract = mock<Contract>();
-      mockOrg2QsccContract.evaluateTransaction
-        .calledWith('GetChainInfo')
-        .mockResolvedValue(mockBlockchainInfoBuffer);
-      app.locals[config.mspIdOrg2] = {
-        qsccContract: mockOrg2QsccContract,
-      };
-
       const response = await request(app).get('/live');
       expect(response.statusCode).toEqual(200);
       expect(response.header).toHaveProperty(

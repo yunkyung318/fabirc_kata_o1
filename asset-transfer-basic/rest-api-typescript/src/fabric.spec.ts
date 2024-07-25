@@ -55,7 +55,7 @@ describe('Fabric', () => {
     it('creates a wallet containing identities for both orgs', async () => {
       const wallet = await createWallet();
 
-      expect(await wallet.list()).toStrictEqual(['Org1MSP', 'Org2MSP']);
+      expect(await wallet.list()).toStrictEqual(['Org1MSP']);
     });
   });
 

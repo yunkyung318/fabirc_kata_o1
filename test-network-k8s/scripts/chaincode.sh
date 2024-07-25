@@ -108,8 +108,8 @@ function build_chaincode_image() {
   local cc_name=$2
 
   push_fn "Building chaincode image ${cc_name}"
-
-  $CONTAINER_CLI build ${CONTAINER_NAMESPACE} -t ${cc_name} ${cc_folder}
+  echo "$CONTAINER_CLI build ${CONTAINER_NAMESPACE} -t ${cc_name} ${cc_folder}" 
+  sudo $CONTAINER_CLI build ${CONTAINER_NAMESPACE} -t ${cc_name} ${cc_folder}
 
   pop_fn
 }

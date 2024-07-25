@@ -198,11 +198,5 @@ process.env = Object.assign(process.env, {
     '"-----BEGIN CERTIFICATE-----\\nMOCK\\n-----END CERTIFICATE-----\\n"',
   HLF_PRIVATE_KEY_ORG1:
     '"-----BEGIN PRIVATE KEY-----\\nMOCK\\n-----END PRIVATE KEY-----\\n"',
-  HLF_CONNECTION_PROFILE_ORG2: '{"name":"mock-profile-org2"}',
-  HLF_CERTIFICATE_ORG2:
-    '"-----BEGIN CERTIFICATE-----\\nMOCK\\n-----END CERTIFICATE-----\\n"',
-  HLF_PRIVATE_KEY_ORG2:
-    '"-----BEGIN PRIVATE KEY-----\\nMOCK\\n-----END PRIVATE KEY-----\\n"',
   ORG1_APIKEY: 'ORG1MOCKAPIKEY',
-  ORG2_APIKEY: 'ORG2MOCKAPIKEY',
 });

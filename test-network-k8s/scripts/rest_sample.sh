@@ -35,17 +35,10 @@ function construct_rest_sample_configmap() {
 
   local peer_pem=$CHANNEL_MSP_DIR/peerOrganizations/org1/msp/tlscacerts/tlsca-signcert.pem
   local ca_pem=$CHANNEL_MSP_DIR/peerOrganizations/org1/msp/cacerts/ca-signcert.pem
+
   echo "$(json_ccp 1 $peer_pem $ca_pem $ORG1_NS)" > build/fabric-rest-sample-config/HLF_CONNECTION_PROFILE_ORG1
-
-  #peer_pem=$CHANNEL_MSP_DIR/peerOrganizations/org2/msp/tlscacerts/tlsca-signcert.pem
-  #ca_pem=$CHANNEL_MSP_DIR/peerOrganizations/org2/msp/cacerts/ca-signcert.pem
-  echo "$(json_ccp 1 $peer_pem $ca_pem $ORG2_NS)" > build/fabric-rest-sample-config/HLF_CONNECTION_PROFILE_ORG2
-
   cp $ENROLLMENT_DIR/org1/users/org1admin/msp/signcerts/cert.pem $CONFIG_DIR/HLF_CERTIFICATE_ORG1
-  cp $ENROLLMENT_DIR/org1/users/org1admin/msp/signcerts/cert.pem $CONFIG_DIR/HLF_CERTIFICATE_ORG2
-
   cp $ENROLLMENT_DIR/org1/users/org1admin/msp/keystore/key.pem $CONFIG_DIR/HLF_PRIVATE_KEY_ORG1
-  cp $ENROLLMENT_DIR/org1/users/org1admin/msp/keystore/key.pem $CONFIG_DIR/HLF_PRIVATE_KEY_ORG2
 
   kubectl -n $ns delete configmap fabric-rest-sample-config || true
   kubectl -n $ns create configmap fabric-rest-sample-config --from-file=$CONFIG_DIR

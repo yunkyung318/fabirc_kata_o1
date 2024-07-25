@@ -31,15 +31,18 @@ describe('addSubmitTransactionJob', () => {
       mockQueue,
       'mockMspId',
       'txn',
-      'arg1'
-    );
+      'arg1');
     expect(jobid).toBe('mockJobId');
   });
 
   it('throws an error if there is no job ID', async () => {
     mockJob.id = undefined;
     await expect(async () => {
-      await addSubmitTransactionJob(mockQueue, 'mockMspId', 'txn', 'arg1');
+      await addSubmitTransactionJob(
+      mockQueue,
+      'mockMspId',
+      'txn',
+      'arg1');
     }).rejects.toThrowError('Submit transaction job ID not available');
   });
 });

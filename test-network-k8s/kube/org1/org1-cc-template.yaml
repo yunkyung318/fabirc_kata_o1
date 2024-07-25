@@ -20,7 +20,7 @@ spec:
     spec:
       containers:
         - name: main
-          image: 127.0.0.1:5000/{{CHAINCODE_IMAGE}}:latest
+          image: localhost:5000/{{CHAINCODE_IMAGE}}:latest
           imagePullPolicy: IfNotPresent
           env:
             - name: CHAINCODE_SERVER_ADDRESS

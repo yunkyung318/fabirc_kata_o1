@@ -1,7 +1,7 @@
 #!/bin/bash
-
-random_number=$RANDOM
-sudo mv build build_${random_number}
+#random_number=$RANDOM
+#sudo mv build build_${random_number}
+sudo rm -rf build
 sudo rm $HOME/.kube/config
 
 #### k8s init ####
@@ -50,7 +50,18 @@ kubectl get pv
 
 ### Apply fabric (ca, peer, orderer) ###
 ### Run script/test_network.sh ###
-kubectl wait --for=condition=Ready pod --all --all-namespaces --timeout=600s
+pods=$(kubectl get pods --all-namespaces)
+
+echo "$pods" | tail -n +2 | while read -r pod; do
+  namespace=$(echo $pod | awk '{print $1}')
+  pod_name=$(echo $pod | awk '{print $2}')
+  status=$(echo $pod | awk '{print $4}')
+
+  if [[ "$status" != "Running" && "$status" != "Completed" ]]; then
+          kubectl wait pods ${pod_name} -n ${namespace}  --for=condition=Ready --timeout=600s
+  fi
+done
+
 ./network up
 kubectl get pods -A
 
@@ -60,16 +71,12 @@ kubectl get pods -A
 ### Chaincode Deploy ###
 ./network chaincode deploy asset-transfer-basic ../asset-transfer-basic/chaincode-java
 
-echo "Not END."
-sleep 30
-
 ### Chaincode invoke & query ###
 ./network chaincode invoke asset-transfer-basic '{"Args":["InitLedger"]}'
 ./network chaincode query  asset-transfer-basic '{"Args":["ReadAsset","asset1"]}'
 
 sleep 2
 kubectl get pods -A
-
 ### Make Certificate ###
 ### externally accessible ###
 ./network rest-easy
@@ -91,7 +98,7 @@ echo "$org1_ca_ip org1-ca" | sudo tee -a /etc/hosts
 echo "$org1_peer1_ip org1-peer1" | sudo tee -a /etc/hosts
 
 ### Modifying IP & PORT of a Connection file ###
-jq --arg ip "$org1_peer1_ip" --arg port "$org1_peer1_port" --arg ca_ip "$org1_ca_ip" --arg ca_port "$org1_ca_port" \
+jq --arg ip "10.138.0.27" --arg port "$org1_peer1_port" --arg ca_ip "10.138.0.27" --arg ca_port "$org1_ca_port" \
   '.peers["org1-peers"].url = "grpcs://\($ip):\($port)" |
    .certificateAuthorities["org1-ca"].url = "https://\($ca_ip):\($ca_port)"' \
   build/fabric-rest-sample-config/HLF_CONNECTION_PROFILE_ORG1 > build/fabric-rest-sample-config/temp1.json && mv build/fabric-rest-sample-config/temp1.json build/fabric-rest-sample-config/HLF_CONNECTION_PROFILE_ORG1
