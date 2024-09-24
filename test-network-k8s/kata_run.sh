@@ -1,6 +1,5 @@
 #!/bin/bash
 
-: <<'END'
 random_number=$RANDOM
 sudo mv build build_${random_number}
 sudo rm $HOME/.kube/config
@@ -72,6 +71,17 @@ kubectl get pods -A
 echo "Not END"
 sleep 20
 
+pods=$(kubectl get pods --all-namespaces)
+echo "$pods" | tail -n +2 | while read -r pod; do
+  namespace=$(echo $pod | awk '{print $1}')
+  pod_name=$(echo $pod | awk '{print $2}')
+  status=$(echo $pod | awk '{print $4}')
+
+  if [[ "$status" != "Running" && "$status" != "Completed" ]]; then
+          kubectl wait pods ${pod_name} -n ${namespace}  --for=condition=Ready --timeout=600s
+  fi
+done
+
 ./network chaincode invoke asset-transfer-basic '{"Args":["InitLedger"]}'
 ./network chaincode query  asset-transfer-basic '{"Args":["ReadAsset","asset1"]}'
 
@@ -98,8 +108,6 @@ sleep 5
 kubectl get pods -A
 
 echo "Not END!!! Wait Pods!!!"
-kubectl wait pod -all -n test-network  --for=condition=Ready --timeout=600s
-END
 kubectl get pods -A
 ./network rest-easy
 
