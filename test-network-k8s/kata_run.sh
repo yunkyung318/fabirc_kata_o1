@@ -1,5 +1,6 @@
 #!/bin/bash
 
+: << 'END' 
 random_number=$RANDOM
 sudo mv build build_${random_number}
 sudo rm $HOME/.kube/config
@@ -28,10 +29,8 @@ sudo -E kubectl apply -f runtime.yaml
 
 ### Test ###
 sudo -E kubectl apply -f nginx-kata.yaml
-
 sleep 2
 sudo kubectl get pods -A
-
 ### Apply fabric_crd & nginx_ingress_controller ###
 ### Run script/cluster.sh ###
 ./network cluster init
@@ -66,6 +65,7 @@ done
 kubectl get pods -A
 
 ./network channel create
+END
 ./network chaincode deploy asset-transfer-basic ../asset-transfer-basic/chaincode-java
 
 echo "Not END"
