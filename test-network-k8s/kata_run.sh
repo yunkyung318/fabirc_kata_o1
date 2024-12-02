@@ -1,6 +1,4 @@
 #!/bin/bash
-
-: << 'END' 
 random_number=$RANDOM
 sudo mv build build_${random_number}
 sudo rm $HOME/.kube/config
@@ -31,6 +29,7 @@ sudo -E kubectl apply -f runtime.yaml
 sudo -E kubectl apply -f nginx-kata.yaml
 sleep 2
 sudo kubectl get pods -A
+
 ### Apply fabric_crd & nginx_ingress_controller ###
 ### Run script/cluster.sh ###
 ./network cluster init
@@ -65,7 +64,6 @@ done
 kubectl get pods -A
 
 ./network channel create
-END
 ./network chaincode deploy asset-transfer-basic ../asset-transfer-basic/chaincode-java
 
 echo "Not END"
@@ -86,6 +84,7 @@ done
 ./network chaincode query  asset-transfer-basic '{"Args":["ReadAsset","asset1"]}'
 
 sleep 2
+: << END
 ### Add kata runtime for hyperledger fabric pods (test-network) ###
 mapfile -t deployments < <(kubectl get deployment -n test-network | awk '$1 != "NAME" && $1 != "fabric-operator" {print $1}')
 
@@ -103,11 +102,10 @@ for deployment in "${deployments[@]}"; do
         }'
         kubectl get deployment "$deployment" -n test-network -o jsonpath='{.spec.template.spec.runtimeClassName}'
 done
-
+END
 sleep 5
 kubectl get pods -A
-
-echo "Not END!!! Wait Pods!!!"
+#echo "Not END!!! Wait Pods!!!"
 kubectl get pods -A
 ./network rest-easy
 
@@ -136,4 +134,5 @@ jq --arg ip "10.138.0.27" --arg port "$org1_peer1_port" --arg ca_ip "10.138.0.27
 ### Send Certificates to Caliper Server ###
 ./send_cert.sh
 
+./install_pod_mpstat.sh
 echo "################END################"

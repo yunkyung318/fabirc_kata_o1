@@ -1,0 +1,51 @@
+{
+  "name": "test-network-org1",
+  "version": "1.0.0",
+  "client": {
+    "organization": "Org1",
+    "connection": {
+      "timeout": {
+        "peer": {
+          "endorser": "300"
+        }
+      }
+    }
+  },
+  "organizations": {
+    "Org1": {
+      "mspid": "Org1MSP",
+      "peers": [
+        "org1-peers"
+      ],
+      "certificateAuthorities": [
+        "org1-ca"
+      ]
+    }
+  },
+  "peers": {
+    "org1-peers": {
+      "url": "grpcs://10.138.0.27:32051",
+      "tlsCACerts": {
+        "pem": "-----BEGIN CERTIFICATE-----\nMIIBdzCCAR2gAwIBAgIRAI31NchlrZ8M6HCbFdQV9MYwCgYIKoZIzj0EAwIwGzEZ\nMBcGA1UEAxMQb3JnMS5leGFtcGxlLmNvbTAeFw0yNDExMjEwNDU1MzBaFw0yNTAy\nMTkwNDU1MzBaMBsxGTAXBgNVBAMTEG9yZzEuZXhhbXBsZS5jb20wWTATBgcqhkjO\nPQIBBggqhkjOPQMBBwNCAAThFYaICbI0ZXNMasYEwP8kwYbL0ej1eW/+aeXh5zmP\npkwcAGIJqlBXXPXdLRTn1b81TPYVVEucKhVgmaYoDW/uo0IwQDAOBgNVHQ8BAf8E\nBAMCAqQwDwYDVR0TAQH/BAUwAwEB/zAdBgNVHQ4EFgQUNS5C8IgXZlMm6/gIMKq3\nWiAfAbswCgYIKoZIzj0EAwIDSAAwRQIhAJk9ehMrsA76ilpFDUhDNwR6Ry2mbTBQ\njXiPwxKLW1+SAiB+eSlBoxfrEdse31v4al8Qm1jtj3fWZPxRASO0YPLrxw==\n-----END CERTIFICATE-----\n"
+      },
+      "grpcOptions": {
+        "ssl-target-name-override": "org1-peer1.test-network.svc.cluster.local",
+        "hostnameOverride": "org1-peer1.test-network.svc.cluster.local"
+      }
+    }
+  },
+  "certificateAuthorities": {
+    "org1-ca": {
+      "url": "https://10.138.0.27:32063",
+      "caName": "org1-ca",
+      "tlsCACerts": {
+        "pem": [
+          "-----BEGIN CERTIFICATE-----\nMIICKDCCAc6gAwIBAgIUV0Cl9FgfWTL/zWrQmH7rmiewQJYwCgYIKoZIzj0EAwIw\naDELMAkGA1UEBhMCVVMxFzAVBgNVBAgTDk5vcnRoIENhcm9saW5hMRQwEgYDVQQK\nEwtIeXBlcmxlZGdlcjEPMA0GA1UECxMGRmFicmljMRkwFwYDVQQDExBmYWJyaWMt\nY2Etc2VydmVyMB4XDTI0MTEyMTA0NTEwMFoXDTM5MTExODA0NTEwMFowaDELMAkG\nA1UEBhMCVVMxFzAVBgNVBAgTDk5vcnRoIENhcm9saW5hMRQwEgYDVQQKEwtIeXBl\ncmxlZGdlcjEPMA0GA1UECxMGRmFicmljMRkwFwYDVQQDExBmYWJyaWMtY2Etc2Vy\ndmVyMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEn0P0aT/Gy0V3NdGJdKrc8zWL\nGn1ZfHLJh2tFb/Z3sPrSKH6rXG56GhwHYLaLspa8QyxKLO+2/BfGyIiOkfXH26NW\nMFQwDgYDVR0PAQH/BAQDAgEGMBIGA1UdEwEB/wQIMAYBAf8CAQEwHQYDVR0OBBYE\nFLMqxZp3yxcPZq5ypS72amvTZq6hMA8GA1UdEQQIMAaHBH8AAAEwCgYIKoZIzj0E\nAwIDSAAwRQIhAMTO1sCeVoJQK0Zkl9y/xA84pDi1KsgARsUxJkk611f/AiAySH7r\nCiTjJUimexpyLhnxfMmXtCuZIetaaErduNgMbg==\n-----END CERTIFICATE-----\n"
+        ]
+      },
+      "httpOptions": {
+        "verify": false
+      }
+    }
+  }
+}

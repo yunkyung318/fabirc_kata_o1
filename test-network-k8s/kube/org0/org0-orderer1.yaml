@@ -71,6 +71,7 @@ spec:
       labels:
         app: org0-orderer1
     spec:
+      runtimeClassName : kata
       containers:
         - name: main
           image: ${FABRIC_CONTAINER_REGISTRY}/fabric-orderer:${FABRIC_VERSION}
@@ -82,6 +83,11 @@ spec:
             - containerPort: 6050
             - containerPort: 8443
             - containerPort: 9443
+          #resources:           # 추가된 리소스 섹션
+          #  requests:
+          #    cpu: "1"         # 요청하는 CPU 1 vCPU
+          #  limits:
+          #    cpu: "1"
           volumeMounts:
             - name: fabric-volume
               mountPath: /var/hyperledger

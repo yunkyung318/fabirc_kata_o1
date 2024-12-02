@@ -1,0 +1,2721 @@
+Linux 5.15.0-1070-gcp (yun-fabric) 	10/23/24 	_x86_64_	(8 CPU)
+
+10/23/24 08:02:38
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          12.9%    0.0%    6.2%    0.4%    0.0%   80.5%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k      10.0k       0.0k       0.0k loop0
+     0.04         0.4k         0.0k         0.0k       1.8M       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k      10.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k      24.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       9.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k      43.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k      34.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       8.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k      14.0k       0.0k       0.0k loop8
+    75.80       648.9k         1.4M         0.0k       2.9G       6.3G       0.0k sda
+
+
+10/23/24 08:02:39
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           3.5%    0.0%    3.4%    0.0%    0.0%   93.1%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+    19.00         0.0k        52.0k         0.0k       0.0k      52.0k       0.0k sda
+
+
+10/23/24 08:02:40
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           2.4%    0.0%    2.3%    0.0%    0.0%   95.3%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k sda
+
+
+10/23/24 08:02:41
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           4.1%    0.0%    3.9%    0.1%    0.0%   91.9%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+    23.00         0.0k         2.5M         0.0k       0.0k       2.5M       0.0k sda
+
+
+10/23/24 08:02:42
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           2.9%    0.0%    2.8%    0.0%    0.0%   94.4%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+     2.00         0.0k       100.0k         0.0k       0.0k     100.0k       0.0k sda
+
+
+10/23/24 08:02:43
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           3.3%    0.0%    2.4%    0.0%    0.0%   94.3%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+    16.00         0.0k        64.0k         0.0k       0.0k      64.0k       0.0k sda
+
+
+10/23/24 08:02:44
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           3.8%    0.0%    2.8%    0.1%    0.0%   93.4%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+    27.00         0.0k       108.0k         0.0k       0.0k     108.0k       0.0k sda
+
+
+10/23/24 08:02:45
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           6.0%    0.0%    5.0%    0.1%    0.0%   88.9%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+    21.00         0.0k       184.0k         0.0k       0.0k     184.0k       0.0k sda
+
+
+10/23/24 08:02:46
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           5.6%    0.0%    4.2%    0.1%    0.0%   90.1%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+   160.00         0.0k       920.0k         0.0k       0.0k     920.0k       0.0k sda
+
+
+10/23/24 08:02:47
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           3.5%    0.0%    3.5%    0.1%    0.0%   92.9%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+    15.00         0.0k       108.0k         0.0k       0.0k     108.0k       0.0k sda
+
+
+10/23/24 08:02:48
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           4.0%    0.0%    3.6%    0.0%    0.0%   92.4%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k sda
+
+
+10/23/24 08:02:49
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          18.9%    0.0%    7.4%    0.0%    0.0%   73.8%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+    20.00         0.0k        52.0k         0.0k       0.0k      52.0k       0.0k sda
+
+
+10/23/24 08:02:50
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           3.3%    0.0%    3.3%    0.0%    0.0%   93.5%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k sda
+
+
+10/23/24 08:02:51
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           4.3%    0.0%    3.4%    0.1%    0.0%   92.2%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+    21.00         0.0k       240.0k         0.0k       0.0k     240.0k       0.0k sda
+
+
+10/23/24 08:02:52
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           3.4%    0.0%    3.3%    0.0%    0.0%   93.3%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+    10.00         0.0k        28.0k         0.0k       0.0k      28.0k       0.0k sda
+
+
+10/23/24 08:02:53
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           8.6%    0.0%    4.9%    0.0%    0.0%   86.5%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+    11.00         0.0k        28.0k         0.0k       0.0k      28.0k       0.0k sda
+
+
+10/23/24 08:02:54
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           4.3%    0.0%    3.8%    0.0%    0.0%   92.0%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+     6.00         0.0k        12.0k         0.0k       0.0k      12.0k       0.0k sda
+
+
+10/23/24 08:02:55
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           8.3%    0.0%    5.5%    0.1%    0.0%   86.1%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+    23.00         0.0k       248.0k         0.0k       0.0k     248.0k       0.0k sda
+
+
+10/23/24 08:02:56
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           5.4%    0.0%    4.6%    0.1%    0.0%   89.9%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+   147.00         0.0k         1.0M         0.0k       0.0k       1.0M       0.0k sda
+
+
+10/23/24 08:02:57
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           4.8%    0.0%    4.7%    0.1%    0.0%   90.3%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+    21.00         0.0k       156.0k         0.0k       0.0k     156.0k       0.0k sda
+
+
+10/23/24 08:02:58
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           3.6%    0.0%    4.4%    0.0%    0.0%   92.0%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+    11.00         0.0k        28.0k         0.0k       0.0k      28.0k       0.0k sda
+
+
+10/23/24 08:02:59
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           4.4%    0.0%    5.0%    0.1%    0.0%   90.5%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+    36.00         0.0k       140.0k         0.0k       0.0k     140.0k       0.0k sda
+
+
+10/23/24 08:03:00
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           3.6%    0.0%    3.8%    0.0%    0.0%   92.6%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k sda
+
+
+10/23/24 08:03:01
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           4.4%    0.0%    3.7%    0.1%    0.0%   91.8%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+    13.00         0.0k        76.0k         0.0k       0.0k      76.0k       0.0k sda
+
+
+10/23/24 08:03:02
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           4.4%    0.0%    3.4%    0.0%    0.0%   92.2%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k sda
+
+
+10/23/24 08:03:03
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           5.0%    0.0%    3.9%    0.0%    0.0%   91.2%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+    11.00         0.0k        28.0k         0.0k       0.0k      28.0k       0.0k sda
+
+
+10/23/24 08:03:04
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           4.8%    0.0%    3.0%    0.0%    0.0%   92.2%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+     6.00         0.0k        12.0k         0.0k       0.0k      12.0k       0.0k sda
+
+
+10/23/24 08:03:05
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           7.3%    0.0%    5.2%    0.1%    0.0%   87.4%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+    22.00         0.0k       312.0k         0.0k       0.0k     312.0k       0.0k sda
+
+
+10/23/24 08:03:06
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           4.8%    0.0%    5.0%    0.1%    0.0%   90.1%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+    15.00         0.0k       240.0k         0.0k       0.0k     240.0k       0.0k sda
+
+
+10/23/24 08:03:07
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           6.4%    0.0%    5.3%    0.0%    0.0%   88.3%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+    93.00         0.0k       424.0k         0.0k       0.0k     424.0k       0.0k sda
+
+
+10/23/24 08:03:08
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           3.8%    0.0%    3.1%    0.0%    0.0%   93.1%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k sda
+
+
+10/23/24 08:03:09
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           4.5%    0.0%    4.0%    0.1%    0.0%   91.4%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+    17.00         0.0k       152.0k         0.0k       0.0k     152.0k       0.0k sda
+
+
+10/23/24 08:03:10
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           3.6%    0.0%    3.6%    0.0%    0.0%   92.7%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k sda
+
+
+10/23/24 08:03:11
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           3.7%    0.0%    5.0%    0.0%    0.0%   91.3%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+    11.00         0.0k        28.0k         0.0k       0.0k      28.0k       0.0k sda
+
+
+10/23/24 08:03:12
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           2.8%    0.0%    3.2%    0.0%    0.0%   94.1%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+    23.00         0.0k       148.0k         0.0k       0.0k     148.0k       0.0k sda
+
+
+10/23/24 08:03:13
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           4.3%    0.0%    4.1%    0.1%    0.0%   91.5%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+    24.00         0.0k       128.0k         0.0k       0.0k     128.0k       0.0k sda
+
+
+10/23/24 08:03:14
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           5.0%    0.0%    4.1%    0.1%    0.0%   90.8%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+    19.00         0.0k        44.0k         0.0k       0.0k      44.0k       0.0k sda
+
+
+10/23/24 08:03:15
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           6.9%    0.0%    5.9%    0.1%    0.0%   87.1%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+    25.00         0.0k       344.0k         0.0k       0.0k     344.0k       0.0k sda
+
+
+10/23/24 08:03:16
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           5.0%    0.0%    4.1%    0.0%    0.0%   90.9%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+    12.00         0.0k       208.0k         0.0k       0.0k     208.0k       0.0k sda
+
+
+10/23/24 08:03:17
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           5.4%    0.0%    4.6%    0.1%    0.0%   89.9%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+    54.00         0.0k       268.0k         0.0k       0.0k     268.0k       0.0k sda
+
+
+10/23/24 08:03:18
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           3.8%    0.0%    3.5%    0.0%    0.0%   92.7%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+     8.00         0.0k        24.0k         0.0k       0.0k      24.0k       0.0k sda
+
+
+10/23/24 08:03:19
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           3.8%    0.0%    3.3%    0.1%    0.0%   92.8%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+    23.00         0.0k       188.0k         0.0k       0.0k     188.0k       0.0k sda
+
+
+10/23/24 08:03:20
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           3.1%    0.0%    2.9%    0.0%    0.0%   94.0%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k sda
+
+
+10/23/24 08:03:21
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           3.9%    0.0%    3.2%    0.0%    0.0%   92.9%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+    11.00         0.0k        28.0k         0.0k       0.0k      28.0k       0.0k sda
+
+
+10/23/24 08:03:22
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           3.4%    0.0%    3.8%    0.0%    0.0%   92.9%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+    26.00         0.0k       144.0k         0.0k       0.0k     144.0k       0.0k sda
+
+
+10/23/24 08:03:23
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           4.9%    0.0%    4.4%    0.1%    0.0%   90.6%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+    12.00         0.0k       116.0k         0.0k       0.0k     116.0k       0.0k sda
+
+
+10/23/24 08:03:24
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          18.4%    0.0%   10.1%    0.5%    0.0%   71.0%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+    84.00         0.0k         1.3M         0.0k       0.0k       1.3M       0.0k sda
+
+
+10/23/24 08:03:25
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          49.6%    0.0%   17.8%    3.1%    0.0%   29.4%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+   486.00         0.0k         8.8M         0.0k       0.0k       8.8M       0.0k sda
+
+
+10/23/24 08:03:26
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          32.6%    0.0%   13.8%    1.6%    0.0%   52.0%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+   233.00         0.0k         4.2M         0.0k       0.0k       4.2M       0.0k sda
+
+
+10/23/24 08:03:27
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          44.9%    0.0%   17.4%    2.1%    0.0%   35.6%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+   322.00         0.0k         5.0M         0.0k       0.0k       5.0M       0.0k sda
+
+
+10/23/24 08:03:28
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          42.0%    0.0%   13.8%    2.2%    0.0%   42.0%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+   307.00         0.0k         4.7M         0.0k       0.0k       4.7M       0.0k sda
+
+
+10/23/24 08:03:29
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          38.8%    0.0%   17.1%    1.9%    0.0%   42.2%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+   323.00         0.0k         5.1M         0.0k       0.0k       5.1M       0.0k sda
+
+
+10/23/24 08:03:30
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           9.3%    0.0%    5.3%    0.5%    0.0%   85.0%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+    66.00         0.0k         1.0M         0.0k       0.0k       1.0M       0.0k sda
+
+
+10/23/24 08:03:31
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           3.6%    0.0%    4.1%    0.0%    0.0%   92.3%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+    11.00         0.0k        28.0k         0.0k       0.0k      28.0k       0.0k sda
+
+
+10/23/24 08:03:32
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           3.0%    0.0%    3.6%    0.0%    0.0%   93.4%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k sda
+
+
+10/23/24 08:03:33
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           3.4%    0.0%    2.8%    0.0%    0.0%   93.8%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+    12.00         0.0k       156.0k         0.0k       0.0k     156.0k       0.0k sda
+
+
+10/23/24 08:03:34
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           8.4%    0.0%    5.7%    0.0%    0.0%   85.9%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+     6.00         0.0k        12.0k         0.0k       0.0k      12.0k       0.0k sda
+
+
+10/23/24 08:03:35
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           7.4%    0.0%    5.5%    0.1%    0.0%   87.0%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+    23.00         0.0k       292.0k         0.0k       0.0k     292.0k       0.0k sda
+
+
+10/23/24 08:03:36
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           4.2%    0.0%    4.2%    0.1%    0.0%   91.6%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+    14.00         0.0k       244.0k         0.0k       0.0k     244.0k       0.0k sda
+
+
+10/23/24 08:03:37
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           4.9%    0.0%    4.4%    0.0%    0.0%   90.7%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+    13.00         0.0k       124.0k         0.0k       0.0k     124.0k       0.0k sda
+
+
+10/23/24 08:03:38
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          23.8%    0.0%   10.5%    0.0%    0.0%   65.7%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+    16.00         0.0k        44.0k         0.0k       0.0k      44.0k       0.0k sda
+
+
+10/23/24 08:03:39
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          35.7%    0.0%   17.3%    0.1%    0.0%   46.8%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+    14.00         0.0k        36.0k         0.0k       0.0k      36.0k       0.0k sda
+
+
+10/23/24 08:03:40
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          33.5%    0.0%   14.5%    0.0%    0.0%   52.0%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+     5.00         0.0k        24.0k         0.0k       0.0k      24.0k       0.0k sda
+
+
+10/23/24 08:03:41
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          35.6%    0.0%   16.8%    0.0%    0.0%   47.6%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+     5.00         0.0k        76.0k         0.0k       0.0k      76.0k       0.0k sda
+
+
+10/23/24 08:03:42
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          31.1%    0.0%   15.7%    0.0%    0.0%   53.2%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+     6.00         0.0k        20.0k         0.0k       0.0k      20.0k       0.0k sda
+
+
+10/23/24 08:03:43
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          33.7%    0.0%   15.5%    0.0%    0.0%   50.8%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+    11.00         0.0k        28.0k         0.0k       0.0k      28.0k       0.0k sda
+
+
+10/23/24 08:03:44
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          35.6%    0.0%   14.9%    0.1%    0.0%   49.3%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+    31.00         0.0k       144.0k         0.0k       0.0k     144.0k       0.0k sda
+
+
+10/23/24 08:03:45
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          35.4%    0.0%   15.3%    0.0%    0.0%   49.3%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+    12.00         0.0k       244.0k         0.0k       0.0k     244.0k       0.0k sda
+
+
+10/23/24 08:03:46
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          34.5%    0.0%   15.7%    0.0%    0.0%   49.8%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+    25.00         0.0k       276.0k         0.0k       0.0k     276.0k       0.0k sda
+
+
+10/23/24 08:03:47
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          26.0%    0.0%   13.0%    0.0%    0.0%   61.0%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k sda
+
+
+10/23/24 08:03:48
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          20.7%    0.0%    9.7%    1.0%    0.0%   68.6%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+   311.00         0.0k        11.3M         0.0k       0.0k      11.3M       0.0k sda
+
+
+10/23/24 08:03:49
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          41.3%    0.0%   17.0%    2.3%    0.0%   39.5%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+   374.00         0.0k         5.8M         0.0k       0.0k       5.8M       0.0k sda
+
+
+10/23/24 08:03:50
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          42.2%    0.0%   16.3%    2.6%    0.0%   39.0%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+   409.00         0.0k         6.5M         0.0k       0.0k       6.5M       0.0k sda
+
+
+10/23/24 08:03:51
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          38.0%    0.0%   18.0%    2.5%    0.0%   41.5%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+   348.00         0.0k         5.3M         0.0k       0.0k       5.3M       0.0k sda
+
+
+10/23/24 08:03:52
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          14.8%    0.0%    6.8%    1.0%    0.0%   77.4%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+   160.00         0.0k         2.2M         0.0k       0.0k       2.2M       0.0k sda
+
+
+10/23/24 08:03:53
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           3.3%    0.0%    3.3%    0.3%    0.0%   93.2%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+    88.00         0.0k        18.6M         0.0k       0.0k      18.6M       0.0k sda
+
+
+10/23/24 08:03:54
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           3.9%    0.0%    3.9%    0.0%    0.0%   92.3%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+    17.00         0.0k        40.0k         0.0k       0.0k      40.0k       0.0k sda
+
+
+10/23/24 08:03:55
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           6.5%    0.0%    4.4%    0.1%    0.0%   88.9%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+    11.00         0.0k       208.0k         0.0k       0.0k     208.0k       0.0k sda
+
+
+10/23/24 08:03:56
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           5.4%    0.0%    4.5%    0.1%    0.0%   90.0%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+    27.00         0.0k       348.0k         0.0k       0.0k     348.0k       0.0k sda
+
+
+10/23/24 08:03:57
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           4.5%    0.0%    3.4%    0.0%    0.0%   92.1%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k sda
+
+
+10/23/24 08:03:58
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           3.8%    0.0%    3.0%    0.1%    0.0%   93.1%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+    21.00         0.0k        56.0k         0.0k       0.0k      56.0k       0.0k sda
+
+
+10/23/24 08:03:59
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           3.8%    0.0%    4.1%    0.0%    0.0%   92.1%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+    28.00         0.0k       180.0k         0.0k       0.0k     180.0k       0.0k sda
+
+
+10/23/24 08:04:00
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           4.0%    0.0%    3.2%    0.1%    0.0%   92.6%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+    19.00         0.0k        76.0k         0.0k       0.0k      76.0k       0.0k sda
+
+
+10/23/24 08:04:01
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           3.8%    0.0%    3.0%    0.0%    0.0%   93.2%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k sda
+
+
+10/23/24 08:04:02
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          15.7%    0.0%    8.1%    0.5%    0.0%   75.7%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+    78.00         0.0k         1.1M         0.0k       0.0k       1.1M       0.0k sda
+
+
+10/23/24 08:04:03
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          43.9%    0.0%   16.9%    2.0%    0.0%   37.2%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+   331.00         0.0k         5.4M         0.0k       0.0k       5.4M       0.0k sda
+
+
+10/23/24 08:04:04
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          43.3%    0.0%   16.1%    2.0%    0.0%   38.6%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+   335.00         8.0k         5.3M         0.0k       8.0k       5.3M       0.0k sda
+
+
+10/23/24 08:04:05
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          44.4%    0.0%   17.0%    2.2%    0.0%   36.4%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+   350.00         0.0k         5.7M         0.0k       0.0k       5.7M       0.0k sda
+
+
+10/23/24 08:04:06
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          34.9%    0.0%   13.2%    1.7%    0.0%   50.2%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+   275.00         0.0k         4.3M         0.0k       0.0k       4.3M       0.0k sda
+
+
+10/23/24 08:04:07
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           4.6%    0.0%    4.6%    0.0%    0.0%   90.8%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+     9.00         0.0k        24.0k         0.0k       0.0k      24.0k       0.0k sda
+
+
+10/23/24 08:04:08
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          11.2%    0.0%    5.1%    0.5%    0.0%   83.1%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+    79.00         0.0k         1.1M         0.0k       0.0k       1.1M       0.0k sda
+
+
+10/23/24 08:04:09
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           4.6%    0.0%    4.3%    0.1%    0.0%   91.0%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+    21.00         0.0k       116.0k         0.0k       0.0k     116.0k       0.0k sda
+
+
+10/23/24 08:04:10
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           6.3%    0.0%    3.8%    0.4%    0.0%   89.6%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+    67.00         0.0k       724.0k         0.0k       0.0k     724.0k       0.0k sda
+
+
+10/23/24 08:04:11
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           3.7%    0.0%    4.2%    0.0%    0.0%   92.0%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k sda
+
+
+10/23/24 08:04:12
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           3.6%    0.0%    3.9%    0.0%    0.0%   92.5%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+    11.00         0.0k        28.0k         0.0k       0.0k      28.0k       0.0k sda
+
+
+10/23/24 08:04:13
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           4.3%    0.0%    4.3%    0.1%    0.0%   91.2%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+    12.00         0.0k        72.0k         0.0k       0.0k      72.0k       0.0k sda
+
+
+10/23/24 08:04:14
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           7.0%    0.0%    5.0%    0.0%    0.0%   88.0%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+    22.00         0.0k       128.0k         0.0k       0.0k     128.0k       0.0k sda
+
+
+10/23/24 08:04:15
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          10.1%    0.0%    7.2%    0.1%    0.0%   82.6%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+    19.00         0.0k       192.0k         0.0k       0.0k     192.0k       0.0k sda
+
+
+10/23/24 08:04:16
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           6.6%    0.0%    4.2%    0.1%    0.0%   89.2%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+    26.00         0.0k       248.0k         0.0k       0.0k     248.0k       0.0k sda
+
+
+10/23/24 08:04:17
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           4.2%    0.0%    4.0%    0.0%    0.0%   91.8%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k sda
+
+
+10/23/24 08:04:18
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           6.1%    0.0%    4.3%    0.0%    0.0%   89.6%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+    11.00         0.0k        28.0k         0.0k       0.0k      28.0k       0.0k sda
+
+
+10/23/24 08:04:19
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          45.7%    0.0%   14.8%    0.0%    0.0%   39.5%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+    89.00         0.0k         6.0M         0.0k       0.0k       6.0M       0.0k sda
+
+
+10/23/24 08:04:20
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          34.6%    0.0%   15.7%    0.1%    0.0%   49.5%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+    22.00         0.0k       236.0k         0.0k       0.0k     236.0k       0.0k sda
+
+
+10/23/24 08:04:21
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          38.3%    0.0%   16.6%    0.0%    0.0%   45.0%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k sda
+
+
+10/23/24 08:04:22
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          32.5%    0.0%   16.3%    0.0%    0.0%   51.2%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+    22.00         0.0k       112.0k         0.0k       0.0k     112.0k       0.0k sda
+
+
+10/23/24 08:04:23
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          35.7%    0.0%   18.3%    0.0%    0.0%   45.9%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k sda
+
+
+10/23/24 08:04:24
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          39.1%    0.0%   17.3%    0.1%    0.0%   43.5%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+    28.00         0.0k       212.0k         0.0k       0.0k     212.0k       0.0k sda
+
+
+10/23/24 08:04:25
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          37.7%    0.0%   18.8%    0.0%    0.0%   43.6%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+    12.00         0.0k       284.0k         0.0k       0.0k     284.0k       0.0k sda
+
+
+10/23/24 08:04:26
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          41.6%    0.0%   17.1%    0.0%    0.0%   41.3%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+    25.00         0.0k       348.0k         0.0k       0.0k     348.0k       0.0k sda
+
+
+10/23/24 08:04:27
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          11.8%    0.0%    9.1%    0.0%    0.0%   79.2%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k sda
+
+
+10/23/24 08:04:28
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          42.3%    0.0%   15.1%    2.1%    0.0%   40.5%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+   353.00         0.0k         5.5M         0.0k       0.0k       5.5M       0.0k sda
+
+
+10/23/24 08:04:29
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          42.9%    0.0%   16.9%    2.2%    0.0%   38.0%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+   447.00         0.0k         6.4M         0.0k       0.0k       6.4M       0.0k sda
+
+
+10/23/24 08:04:30
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          38.6%    0.0%   17.6%    2.3%    0.0%   41.5%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+   389.00         0.0k         5.9M         0.0k       0.0k       5.9M       0.0k sda
+
+
+10/23/24 08:04:31
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          26.8%    0.0%   12.1%    1.4%    0.0%   59.7%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+   212.00         0.0k         3.4M         0.0k       0.0k       3.4M       0.0k sda
+
+
+10/23/24 08:04:32
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           3.5%    0.0%    2.9%    0.0%    0.0%   93.6%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+    12.00         0.0k        64.0k         0.0k       0.0k      64.0k       0.0k sda
+
+
+10/23/24 08:04:33
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           6.9%    0.0%    5.5%    0.5%    0.0%   87.1%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+    69.00         0.0k         1.0M         0.0k       0.0k       1.0M       0.0k sda
+
+
+10/23/24 08:04:34
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           4.2%    0.0%    3.5%    0.0%    0.0%   92.3%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+   124.00         0.0k        22.6M         0.0k       0.0k      22.6M       0.0k sda
+
+
+10/23/24 08:04:35
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           8.4%    0.0%    4.7%    0.5%    0.0%   86.5%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+    81.00         0.0k         1.1M         0.0k       0.0k       1.1M       0.0k sda
+
+
+10/23/24 08:04:36
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           6.4%    0.0%    3.5%    0.0%    0.0%   90.0%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+    24.00         0.0k       272.0k         0.0k       0.0k     272.0k       0.0k sda
+
+
+10/23/24 08:04:37
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           3.5%    0.0%    3.1%    0.1%    0.0%   93.2%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+     9.00         0.0k        24.0k         0.0k       0.0k      24.0k       0.0k sda
+
+
+10/23/24 08:04:38
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           4.7%    0.0%    5.0%    0.0%    0.0%   90.3%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+    12.00         0.0k       120.0k         0.0k       0.0k     120.0k       0.0k sda
+
+
+10/23/24 08:04:39
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           4.4%    0.0%    3.5%    0.0%    0.0%   92.2%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+    11.00         0.0k        28.0k         0.0k       0.0k      28.0k       0.0k sda
+
+
+10/23/24 08:04:40
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           4.2%    0.0%    3.6%    0.1%    0.0%   92.1%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+    19.00         0.0k        52.0k         0.0k       0.0k      52.0k       0.0k sda
+
+
+10/23/24 08:04:41
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           3.4%    0.0%    3.6%    0.0%    0.0%   93.0%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k sda
+
+
+10/23/24 08:04:42
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           2.5%    0.0%    3.9%    0.0%    0.0%   93.6%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+    13.00         0.0k        92.0k         0.0k       0.0k      92.0k       0.0k sda
+
+
+10/23/24 08:04:43
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           3.9%    0.0%    3.9%    0.0%    0.0%   92.3%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+    11.00         0.0k        28.0k         0.0k       0.0k      28.0k       0.0k sda
+
+
+10/23/24 08:04:44
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           3.8%    0.0%    4.0%    0.1%    0.0%   92.1%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+    18.00         0.0k        84.0k         0.0k       0.0k      84.0k       0.0k sda
+
+
+10/23/24 08:04:45
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           9.8%    0.0%    6.9%    0.1%    0.0%   83.1%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+    26.00         0.0k       212.0k         0.0k       0.0k     212.0k       0.0k sda
+
+
+10/23/24 08:04:46
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          47.5%    0.0%   16.7%    1.8%    0.0%   33.9%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+   330.00         0.0k         5.5M         0.0k       0.0k       5.5M       0.0k sda
+
+
+10/23/24 08:04:47
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          39.3%    0.0%   15.9%    2.1%    0.0%   42.7%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+   322.00         0.0k         5.2M         0.0k       0.0k       5.2M       0.0k sda
+
+
+10/23/24 08:04:48
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          43.8%    0.0%   16.9%    2.2%    0.0%   37.1%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+   348.00         0.0k         5.6M         0.0k       0.0k       5.6M       0.0k sda
+
+
+10/23/24 08:04:49
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          42.3%    0.0%   16.6%    2.0%    0.0%   39.0%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+   353.00         0.0k         7.1M         0.0k       0.0k       7.1M       0.0k sda
+
+
+10/23/24 08:04:50
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          10.3%    0.0%    5.5%    0.5%    0.0%   83.7%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+    89.00         0.0k         1.2M         0.0k       0.0k       1.2M       0.0k sda
+
+
+10/23/24 08:04:51
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           4.8%    0.0%    4.6%    0.0%    0.0%   90.7%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k sda
+
+
+10/23/24 08:04:52
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           4.6%    0.0%    3.5%    0.0%    0.0%   91.9%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+    13.00         0.0k        36.0k         0.0k       0.0k      36.0k       0.0k sda
+
+
+10/23/24 08:04:53
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           6.3%    0.0%    3.5%    0.0%    0.0%   90.2%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k sda
+
+
+10/23/24 08:04:54
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          10.2%    0.0%    6.9%    0.1%    0.0%   82.8%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+    17.00         0.0k        40.0k         0.0k       0.0k      40.0k       0.0k sda
+
+
+10/23/24 08:04:55
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           7.8%    0.0%    5.2%    0.0%    0.0%   86.9%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+    82.00         0.0k       756.0k         0.0k       0.0k     756.0k       0.0k sda
+
+
+10/23/24 08:04:56
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           5.5%    0.0%    5.5%    0.1%    0.0%   88.9%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+    23.00         0.0k       288.0k         0.0k       0.0k     288.0k       0.0k sda
+
+
+10/23/24 08:04:57
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           3.2%    0.0%    3.2%    0.0%    0.0%   93.5%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k sda
+
+
+10/23/24 08:04:58
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          28.0%    0.0%   12.6%    0.1%    0.0%   59.3%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+    24.00         0.0k       176.0k         0.0k       0.0k     176.0k       0.0k sda
+
+
+10/23/24 08:04:59
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          38.2%    0.0%   17.2%    0.0%    0.0%   44.6%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+    11.00         0.0k        28.0k         0.0k       0.0k      28.0k       0.0k sda
+
+
+10/23/24 08:05:00
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          37.7%    0.0%   16.8%    0.1%    0.0%   45.3%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+   168.00         0.0k         5.9M         0.0k       0.0k       5.9M       0.0k sda
+
+
+10/23/24 08:05:01
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          35.5%    0.0%   17.5%    0.0%    0.0%   47.0%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+     9.00         0.0k        24.0k         0.0k       0.0k      24.0k       0.0k sda
+
+
+10/23/24 08:05:02
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          35.4%    0.0%   18.5%    0.0%    0.0%   46.1%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+    12.00         0.0k        32.0k         0.0k       0.0k      32.0k       0.0k sda
+
+
+10/23/24 08:05:03
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          37.7%    0.0%   18.3%    0.0%    0.0%   44.0%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k sda
+
+
+10/23/24 08:05:04
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          35.0%    0.0%   17.5%    0.1%    0.0%   47.4%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+    18.00         0.0k       128.0k         0.0k       0.0k     128.0k       0.0k sda
+
+
+10/23/24 08:05:05
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          40.6%    0.0%   17.8%    0.0%    0.0%   41.6%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+    12.00         0.0k       240.0k         0.0k       0.0k     240.0k       0.0k sda
+
+
+10/23/24 08:05:06
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          24.8%    0.0%   11.5%    0.1%    0.0%   63.6%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+    26.00         0.0k       260.0k         0.0k       0.0k     260.0k       0.0k sda
+
+
+10/23/24 08:05:07
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          15.2%    0.0%    8.8%    0.5%    0.0%   75.5%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+    81.00         0.0k         1.2M         0.0k       0.0k       1.2M       0.0k sda
+
+
+10/23/24 08:05:08
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          31.4%    0.0%   14.8%    1.5%    0.0%   52.2%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+   263.00         0.0k         4.1M         0.0k       0.0k       4.1M       0.0k sda
+
+
+10/23/24 08:05:09
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          41.8%    0.0%   16.6%    2.1%    0.0%   39.6%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+   373.00         0.0k         5.9M         0.0k       0.0k       5.9M       0.0k sda
+
+
+10/23/24 08:05:10
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          39.8%    0.0%   18.9%    2.7%    0.0%   38.6%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+   512.00         0.0k        27.6M         0.0k       0.0k      27.6M       0.0k sda
+
+
+10/23/24 08:05:11
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          29.7%    0.0%   13.6%    1.7%    0.0%   55.1%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+   293.00         0.0k         4.6M         0.0k       0.0k       4.6M       0.0k sda
+
+
+10/23/24 08:05:12
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           4.0%    0.0%    3.5%    0.0%    0.0%   92.6%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+    11.00         0.0k        28.0k         0.0k       0.0k      28.0k       0.0k sda
+
+
+10/23/24 08:05:13
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           3.1%    0.0%    3.5%    0.1%    0.0%   93.2%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+    12.00         0.0k        72.0k         0.0k       0.0k      72.0k       0.0k sda
+
+
+10/23/24 08:05:14
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           3.0%    0.0%    4.3%    0.0%    0.0%   92.7%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+    18.00         0.0k        44.0k         0.0k       0.0k      44.0k       0.0k sda
+
+
+10/23/24 08:05:15
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           6.7%    0.0%    5.1%    0.1%    0.0%   88.1%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+    31.00         0.0k       292.0k         0.0k       0.0k     292.0k       0.0k sda
+
+
+10/23/24 08:05:16
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           6.6%    0.0%    4.7%    0.1%    0.0%   88.6%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+    24.00         0.0k       276.0k         0.0k       0.0k     276.0k       0.0k sda
+
+
+10/23/24 08:05:17
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           6.2%    0.0%    8.4%    0.0%    0.0%   85.4%
+
+      tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd Device
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop0
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop1
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop2
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop3
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop4
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop5
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop6
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop7
+     0.00         0.0k         0.0k         0.0k       0.0k       0.0k       0.0k loop8
+     3.00         0.0k       112.0k         0.0k       0.0k     112.0k       0.0k sda
+
