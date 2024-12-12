@@ -1,10 +1,9 @@
 #!/bin/bash
-random_number=$RANDOM
-sudo mv build build_${random_number}
+sudo rm -rf build
 sudo rm $HOME/.kube/config
 
 #### k8s init ####
-sudo kubeadm reset --cri-socket unix://var/run/crio/crio.sock
+yes | sudo kubeadm reset --cri-socket unix://var/run/crio/crio.sock
 sudo systemctl restart crio
 sudo systemctl restart kubelet
 sudo kubeadm init --cri-socket unix://var/run/crio/crio.sock --pod-network-cidr=10.244.0.0/16
@@ -134,5 +133,5 @@ jq --arg ip "10.138.0.27" --arg port "$org1_peer1_port" --arg ca_ip "10.138.0.27
 ### Send Certificates to Caliper Server ###
 ./send_cert.sh
 
-./install_pod_mpstat.sh
+#./install_pod_mpstat.sh
 echo "################END################"

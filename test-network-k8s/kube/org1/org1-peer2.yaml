@@ -88,11 +88,11 @@ spec:
             - containerPort: 7051
             - containerPort: 7052
             - containerPort: 9443
-          #resources:           # 추가된 리소스 섹션
-          #  requests:
-          #    cpu: "1"         # 요청하는 CPU 1 vCPU
-          #  limits:
-          #    cpu: "1"         # 최대 사용 가능한 CPU 1 vCPU
+          resources:           # 추가된 리소스 섹션
+            requests:
+              cpu: "2"         # 요청하는 CPU 1 vCPU
+            limits:
+              cpu: "2"         # 최대 사용 가능한 CPU 1 vCPU
           volumeMounts:
             - name: fabric-volume
               mountPath: /var/hyperledger
